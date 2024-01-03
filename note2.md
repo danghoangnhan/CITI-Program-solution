@@ -1,0 +1,50 @@
+# History and Ethics of Human Subjects Research
+## Massachusetts Institute of Technology Affiliates - Biomedical Research Investigators
+
+### Quiz Results
+You correctly answered 2 of 5 quiz questions.
+
+---
+
+### Question 1
+#### The use of prisoners in research is a concern under the Belmont principle of Justice because:
+- **Your Answer**: Prisoners are not free to say no
+- **Result**: Incorrect
+- **Correct Answer**: Prisoners may not be used to conduct research that only benefits the larger society
+- **Comment**: The Belmont Principle of Justice requires the equitable distribution of both the benefits and burdens of research. Prisoners should not bear the burden of participating in research that only benefits the larger society.
+
+---
+
+### Question 2
+#### Which of the following was the result of the Beecher article?
+- **Your Answer**: Multiple Congressional hearings
+- **Result**: Incorrect
+- **Correct Answer**: Realization that ethical abuses are not limited to the Nazi regime
+- **Comment**: The primary result of the Beecher article was to expose ethical abuses occurring in research involving human subjects in the US, well after the revelations about research by the Nazi regime.
+
+---
+
+### Question 3
+#### Which of the following is included in the Nuremberg Code:
+- **Your Answer**: Voluntary consent
+- **Result**: Correct
+- **Comment**: The Nuremberg Code included the requirement of the voluntary consent of subjects. While all of the choices are valid ethical concerns, none of the other choices were included in the Nuremberg Code.
+
+---
+
+### Question 4
+#### Issued in 1974, 45 CFR 46 raised to regulatory status:
+- **Your Answer**: The 1974 National Research Act
+- **Result**: Incorrect
+- **Correct Answer**: US Public Health Service Policy
+- **Comment**: 45 CFR 46 raised to regulatory status the US Public Health Service policy of 1966 "Clinical research and investigation involving human beings”.
+
+---
+
+### Question 5
+#### Informed consent is considered an application of which Belmont principle?
+- **Your Answer**: Respect for Persons
+- **Result**: Correct
+- **Comment**: Respect for persons involves respecting individual autonomy in the decision to participate in research. That respect is implemented through the process of informed consent.
+
+---
