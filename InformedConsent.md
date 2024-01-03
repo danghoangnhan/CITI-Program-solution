@@ -1,0 +1,39 @@
+### Question 1
+#### The purpose of informed consent is:
+- **Your Answer**: To provide a potential subject with appropriate information in an appropriate manner and allow that person to make an informed decision about participation in research.
+- **Result**: Correct
+- **Comment**: The purpose of the Informed Consent process is to ensure human research subjects are provided all of the information necessary to make informed choices about participating in research.
+
+---
+
+### Question 2
+#### A general requirement for the informed consent form is that it may not include any exculpatory language. Which of the following statements in a consent form is an example of exculpatory language?
+- **Your Answer**: I waive any possibility of compensation for injuries that I may receive as a result of participation in this research.
+- **Result**: Correct
+- **Comment**: Exculpatory language is written content in the consent document through which the subject is made to waive or appear to waive any of the subject's legal rights, or releases or appears to release the investigator, the sponsor, the institution, or its agents from liability for negligence. Such language is specifically prohibited.
+
+---
+
+### Question 3
+#### An elderly gentleman, whose wife is his legally authorized representative (LAR) since his strokes several years ago, was recently diagnosed with lung cancer. He is eligible for a clinical trial using a new investigational drug that aims to treat lung cancer. Which of the following is the most appropriate action to take for the investigator?
+- **Your Answer**: Send a copy of the informed consent via facsimile to the subject's wife. After she has had the opportunity to speak to the investigator, she can sign the informed consent and fax it back.
+- **Result**: Correct
+- **Comment**: The IRB will not provide a waiver of consent under these circumstances and the man should not be excluded from the study simply because his legally authorized representative is temporarily unavailable to sign in person. Verbal approval does not satisfy the FDA requirement at 21 CFR 56.109(c) of signed informed consent document. When obtaining consent from a legally authorized representative (LAR) who is not able to provide signed consent in person, it is acceptable to send the informed consent document to the LAR by facsimile and conduct the consent interview by telephone when the LAR can read the consent as it is discussed as noted in the FDA's FAQs. If the LAR agrees, he/she can sign the consent and return the signed document to the clinical investigator by facsimile.
+
+---
+
+### Question 4
+#### A 46-year-old man is currently enrolled in a Phase 2 study of a drug for severe diabetic neuropathy. While the study is on-going, a new drug becomes commercially available that may have equal or greater benefit to the subject. The investigator should do which of the following?
+- **Your Answer**: Give the subject comprehensive information about the new drug, including its side effects. Discuss the pros and cons of both the investigational drug and the commercially available drug and then allow the subject to decide whether to withdraw from the research to take the new drug.
+- **Result**: Correct
+- **Comment**: Phase 2 clinical trials involve volunteers who have the disease or condition to be treated. These trials help physicians and researchers begin to learn more about the safety of the new drug treatment and how well the drug treats the targeted disease or condition. Several different doses of the drug may be tested to see which dose has the desired effects. Subjects are monitored for side effects and for any improvement in their illness, symptoms, or both. Informed consent is not a one-time procedure but a continuing and ongoing process. 45 CFR 116(b) and 21 CFR 50.25(b) require that the Informed Consent document include a statement indicating that if significant new findings are developed during research which may relate to the subject's willingness to continue, they will be explained to the subject. The Informed Consent document must also describe the process whereby subjects will be notified of significant new findings.
+
+---
+
+### Question 5
+#### An investigator is confronted with a life-threatening situation that necessitates using a test article in a human subject who is unable to provide informed consent and there is no time to obtain consent from the individual’s LAR and no alternative method or recognized therapy is available. Under the FDA regulations for using test articles, which of the following describes the best course of action for the investigator:
+- **Your Answer**: The investigator and an independent physician agree that the situation necessitates the use of the test article. An exception or waiver for informed consent can be made under these circumstances. The IRB will be notified later.
+- **Result**: Correct
+- **Comment**: The life-threatening situation requires a timely decision so that the test article can be ethically used. It would be unethical to withhold emergency treatment until a research protocol is submitted and approved by the IRB. Not using the test article in a situation where it might save a life is also unethical. The Federal regulations (21 CFR 50.24) provide the option of using the test article in a life-threatening condition involving an individual subject where the following requirements for an exception from informed consent are met. 1. The investigator, with the concurrence of another physician, believes the situation necessitates the use of a test article (i.e., an investigational drug, device, or biologic). 2. The subject and/or legally authorized representative is unable to communicate consent 3. There is insufficient time to obtain consent. And 4. No alternative exists that will provide an equal or better chance of saving the subject's life.
+
+---
