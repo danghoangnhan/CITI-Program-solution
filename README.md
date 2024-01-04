@@ -18,3 +18,4 @@
 - **Research and HIPAA Privacy Protections (ID 14)**
 - **Vulnerable Subjects - Research Involving Workers/Employees (ID 483)**
 - **Conflicts of Interest in Human Subjects Research (ID 17464)**
+- ![Certificate PDF](certificates/cer.pdf)
