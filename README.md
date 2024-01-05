@@ -1,6 +1,9 @@
 # CITI-Program-solution
+
 ## Massachusetts Institute of Technology Affiliates
+
 ### Biomedical Research Investigators
+
 - [Belmont Report and Its Principles (ID 1127)](modules/1127.md)
 - [History and Ethics of Human Subjects Research (ID 498)](modules/498.md)
 - [Basic Institutional Review Board (IRB) Regulations and Review Process (ID 2)](modules/2.md)
@@ -18,4 +21,3 @@
 - [Research and HIPAA Privacy Protections (ID 14)](modules/14.md)
 - [Vulnerable Subjects - Research Involving Workers/Employees (ID 483)](modules/483.md)
 - [Conflicts of Interest in Human Subjects Research (ID 17464)](modules/17464.md)
-
