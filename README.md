@@ -1,4 +1,4 @@
-# CITI-Program-solution
+# CITI-Program solution
 
 ## Massachusetts Institute of Technology Affiliates
 
